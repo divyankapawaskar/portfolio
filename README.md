@@ -1,6 +1,6 @@
 # Divyanka Pawaskar — Personal Website 
 
-A single-page portfolio for dental school applications, with content from your CV and a SALUTO-inspired design using your five colors: **#5f2c3e**, **#c2d2bd**, **#d1adcc**, **#c65032**, **#f6e9d7**.
+**#5f2c3e**, **#c2d2bd**, **#d1adcc**, **#c65032**, **#f6e9d7**.
 
 ## View locally
 
